@@ -7,7 +7,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('DevOps Area NodeJs App Is Working :) \n');
+  res.send('App  1 Is Working :) \n');
 });
 app.listen(PORT, HOST);
 console.log(`Running on http://${HOST}:${PORT}`);
