@@ -1,4 +1,4 @@
-#clone the repo
+# Clone the repo
 
 ```docker build -t test1 . ```
 
